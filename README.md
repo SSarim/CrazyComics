@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For inquiries or support, please reach out to:
 - **Sarim Shahwar**  
   [LinkedIn](https://www.linkedin.com/in/sarimshahwar)  
-  [Email](mailto:your-email@example.com)
+  [Email](mailto:sshahwar@torontomu.ca)
 
 ---
 
